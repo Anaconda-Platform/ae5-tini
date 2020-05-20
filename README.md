@@ -7,7 +7,7 @@ inserted into PID 1, and all other processes become children of `tini`.
 This process ensures full signal propagation and zombie collection.
 
 Installation should introduce minimal disruption to a running cluster,
-and can easily be reversed if necessary:
+and can easily be reversed if needed:
 
 1. Copy the contents of this repository to `/opt/anaconda/tini` on the master node.
 2. Enter the Gravity environment and move to this directory.
