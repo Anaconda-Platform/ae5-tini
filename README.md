@@ -1,4 +1,4 @@
-# Zombie killer for AE5
+# Zombie killer for AE5 <= 5.4.1
 
 This repository implements a hotfix that implements zombie process
 collection for AE5 sessions, jobs, and deployments. When successfully
